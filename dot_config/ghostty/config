@@ -51,6 +51,7 @@
 
   # --- Shell Integration ---
   shell-integration = detect
+  shell-integration-features = sudo
 
   # --- Keybindings ---
   # Tabs
