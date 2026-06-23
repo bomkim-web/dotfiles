@@ -30,10 +30,6 @@ $time\
 [ ](fg:color_bg1)\
 $line_break$character"""
 
-right_format = """
-$cmd_duration
-"""
-
 palette = 'gruvbox_dark'
 
 [palettes.gruvbox_dark]
@@ -177,10 +173,6 @@ disabled = false
 time_format = "%R"
 style = "bg:color_bg1"
 format = '[[  $time ](fg:color_fg0 bg:color_bg1)]($style)'
-
-[cmd_duration]
-format = "⏱ [$duration]($style) "
-style = "bold yellow"
 
 [line_break]
 disabled = false
