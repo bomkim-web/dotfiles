@@ -7,7 +7,6 @@ font-thicken = true
 adjust-cell-height = 2
 
 # --- Theme and Colors ---
-# Catppuccin with automatic light/dark switching
 theme = light:Github Light Colorblind,dark:Github Dark Colorblind
 
 # --- Window and Appearance ---
