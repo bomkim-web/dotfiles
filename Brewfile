@@ -68,6 +68,8 @@ cask "claude-code"
 cask "codex"
 # OpenAI's Codex desktop app for managing coding agents
 cask "codex-app"
+# System-wide audio equaliser
+cask "eqmac"
 cask "font-gothic-a1"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-monaspace"
