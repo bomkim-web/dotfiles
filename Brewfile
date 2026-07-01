@@ -18,6 +18,8 @@ brew "fd"
 brew "fnm"
 # Command-line fuzzy finder written in Go
 brew "fzf"
+# GitHub command-line tool
+brew "gh"
 # Distributed revision control system
 brew "git"
 # Syntax-highlighting pager for git and diff output
@@ -105,8 +107,8 @@ mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
 mas "Numbers", id: 361304891
 mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Pages", id: 361309726
+mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "RunCat", id: 1429033973
 vscode "bracketpaircolordlw.bracket-pair-color-dlw"
@@ -143,4 +145,5 @@ vscode "vivaxy.vscode-conventional-commits"
 vscode "vscodevim.vim"
 vscode "vunguyentuan.vscode-css-variables"
 vscode "wholroyd.jinja"
+uv "graphifyy"
 npm "corepack"
